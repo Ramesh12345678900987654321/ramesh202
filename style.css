@@ -1,0 +1,89 @@
+*{
+    margin: 0%;
+}
+
+
+
+.one{
+    height: 20cm;
+    width: 40cm;
+    background-color: white;
+    margin-left: 1cm;
+    border-width: 2px;
+    border-style: solid;
+}
+.two{
+    height: 20cm;
+    width: 9cm;
+    background-color: rgb(61, 61, 61);
+    margin-left: 0.5cm;
+}
+.h1{
+    color: white;
+    text-transform: capitalize;
+    font-family:sans-serif;
+    padding-left: 2cm;
+    padding-top: 8.5cm;
+    font-weight: 100;
+}
+.h2{
+    color: white;
+    text-transform: capitalize;
+    font-family:sans-serif;
+    padding-left: 2cm;
+    font-weight: 100;
+    
+    
+}
+.myweb{
+    color: white;
+    text-decoration: underline;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 2px rgb(248, 48, 248);
+    padding-top: 0.10cm;
+    padding-left: 2.60cm;
+    font-weight: 100;
+
+}
+.para{
+    color:deeppink;
+    text-transform: capitalize;
+    font-family:sans-serif;
+    padding-left: 2cm;
+    font-size: 1cm;
+    font-weight: 500;
+}
+.p{
+   text-transform: capitalize;
+   font-weight: 100;
+   color: white;
+   font-size: 20px;
+   margin-top: 1cm;
+   text-indent: 3cm;
+   line-height: 0.75cm;
+   max-width: 9cm;
+   letter-spacing: 1px;
+   word-spacing: 0.05cm;
+   padding-left: 0.5cm;
+
+   
+}
+.port{
+    color: white;
+    text-decoration: underline;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 2px rgb(248, 48, 248);
+    padding-top: 0.5cm;
+    padding-left: 0.5cm;
+    font-weight: 100;
+}
+.boxtwo{
+    height: 20cm;
+    width: 30.5cm;
+    background-color: rgb(61, 61, 61);
+    margin-left: 9.55cm;
+    position: absolute;
+    
+}
